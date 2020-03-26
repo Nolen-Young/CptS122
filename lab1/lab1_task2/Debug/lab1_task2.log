@@ -1,0 +1,14 @@
+﻿  function.c
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\header.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\header.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(17): warning C4018: '<': signed/unsigned mismatch
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(20): warning C4018: '<': signed/unsigned mismatch
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(40): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(13): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(8): warning C4716: 'reverse': must return a value
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(46): warning C4716: 'merge': must return a value
+d:\nolen\documents\computer science\cpts_122\lab1\lab1_task2\function.c(61): warning C4716: 'count_letters': must return a value
+  lab1_task2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\lab1\lab1_task2\Debug\lab1_task2.exe
+  lab1_task2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\lab1\lab1_task2\Debug\lab1_task2.pdb (Full PDB)

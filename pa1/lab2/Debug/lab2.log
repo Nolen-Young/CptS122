@@ -1,0 +1,4 @@
+﻿  lab2.c
+d:\nolen\documents\computer science\cpts_122\pa1\lab2\lab2.c(12): warning C4715: 'makeNode': not all control paths return a value
+  lab2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\pa1\lab2\Debug\lab2.exe
+  lab2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\pa1\lab2\Debug\lab2.pdb (Full PDB)

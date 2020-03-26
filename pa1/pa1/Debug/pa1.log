@@ -1,0 +1,35 @@
+﻿  pa1_main.c
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(68): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(71): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(74): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1_main.c(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  pa1.c
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1.c(48): warning C4018: '>': signed/unsigned mismatch
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1.c(63): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\nolen\documents\computer science\cpts_122\pa1\pa1\pa1.c(68): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  Generating Code...
+  pa1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\pa1\pa1\Debug\pa1.exe
+  pa1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\pa1\pa1\Debug\pa1.pdb (Full PDB)

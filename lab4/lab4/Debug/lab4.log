@@ -1,0 +1,9 @@
+﻿  lab4_main.c
+d:\nolen\documents\computer science\cpts_122\lab4\lab4\lab4_main.c(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\lab4\lab4\lab4_main.c(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_122\lab4\lab4\lab4_main.c(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  lab4.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\lab4\lab4\Debug\lab4.exe
+  lab4.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\lab4\lab4\Debug\lab4.pdb (Full PDB)

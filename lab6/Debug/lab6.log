@@ -1,0 +1,5 @@
+﻿  lab6.cpp
+d:\nolen\documents\computer science\cpts_122\lab6\lab6.cpp(21): warning C4101: 'imaginaryPart': unreferenced local variable
+d:\nolen\documents\computer science\cpts_122\lab6\lab6.cpp(20): warning C4101: 'realPart': unreferenced local variable
+  lab6.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\lab6\Debug\lab6.exe
+  lab6.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\lab6\Debug\lab6.pdb (Full PDB)

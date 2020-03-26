@@ -1,0 +1,10 @@
+﻿  menu.cpp
+d:\nolen\documents\computer science\cpts_122\pa7\pa7\menu.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\pa7\pa7\node.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\pa7\pa7\node.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\nolen\documents\computer science\cpts_122\pa7\pa7\node.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  pa7.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\pa7\Debug\pa7.exe
+  pa7.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_122\pa7\Debug\pa7.pdb (Full PDB)
